@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elphame009
+- 👋 Hi, I’m @Elphame009, I'm still new in the world of programming but I'm doing my best to conquer it ;)
 - 👀 I’m interested in gaming, web design, traveling and psychology
 - 🌱 I’m currently learning Java Script, SQL and Sketch
 - 📫 How to reach me : sam.jur@vp.pl
