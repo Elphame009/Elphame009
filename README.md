@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elphame009
 - 👀 I’m interested in gaming, web design, traveling and psychology
-- 🌱 I’m currently learning Java Script, SQL
+- 🌱 I’m currently learning Java Script, SQL and Sketch
 - 📫 How to reach me : sam.jur@vp.pl
 
 <!---
