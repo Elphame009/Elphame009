@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Elphame009, I'm still new in the world of programming but I'm doing my best to conquer it ;)
-- 👀 I’m interested in gaming, web design, traveling and psychology
-- 🌱 I’m currently learning Java Script, SQL and Sketch
-- 📫 How to reach me : sam.jur@vp.pl
+- 👀 I’m interested in japanese samurai period, web design, traveling and crafting
+- 🌱 I’m currently learning Java Script, Flutter and Sketch
+- 📫 How to reach me : sam.jur96@gmail.com
 
 <!---
 Elphame009/Elphame009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
