@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elphame009, I'm still new in the world of programming but I'm doing my best to conquer it ;)
+- 👋 Hi, I’m @Elphame009, I'm still new in the world of programming but I'm doing my best to conquer it.
 - 👀 I’m interested in japanese Sengoku period, web design, traveling and crafting
 - 🌱 I’m currently learning Java Script, Flutter and React
 - 📫 How to reach me : sam.jur96@gmail.com
